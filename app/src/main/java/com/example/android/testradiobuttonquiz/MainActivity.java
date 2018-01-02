@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void sprOdpowiedź(View view) {
-        RadioGroup radioGroup_1 = (RadioGroup) findViewById(R.id.radioGr1);
+        RadioGroup radioGroup_1 = (RadioGroup) findViewById(R.id.radioGr4);
         RadioButton button2 = (RadioButton) findViewById(R.id.radioButton2);
 
         boolean button2checked = button2.isChecked();
